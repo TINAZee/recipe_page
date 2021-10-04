@@ -1,5 +1,5 @@
 .container {
-    background-color: #614cb3;
+    background-color: #8378af;
     margin: auto;
     width: 50%;
     border: 3px solid rgb(162, 164, 186);
@@ -8,7 +8,8 @@
 .title {
     display: inline-block;
     width: 100%;
-    font-size: 60px;
+    font-family: 'Ephesis', cursive;font-family: 'BenchNine', sans-serif;font-size: 60px;
     margin-bottom: 10px;
     text-align: center;
+    background-color: #8378af;
 }
